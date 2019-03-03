@@ -55,6 +55,7 @@
   <string name="label_action_media_left">Предыдущий трек</string>
   <string name="label_action_media_right">Следующий трек</string>
   <string name="label_action_play_pause">Воспроизведение/Пауза</string>
+  <string name="label_action_ring_vibe_silent">Звук/Вибрация/Без звука</string>
 
   <!-- Smartbar -->
   <string name="label_smartbar_actions">Действия</string>
